@@ -1,3 +1,24 @@
 .content-top-img {
     width:100%;
 }
+
+h1 {
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    border-bottom: 5px solid orange;
+}
+
+dl {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+dt {
+    font-size:30px;
+    border-bottom: 3px solid gray;
+}
+
+dd {
+    font-size:26px;
+    margin-left: 10px;
+}
