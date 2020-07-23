@@ -1,0 +1,16 @@
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/s-sato/.rbenv/versions/2.6.0/bin/ruby -I /Users/s-sato/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20200721-38435-9ksj21.rb extconf.rb
+creating Makefile
+
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20200721-38435-dpyrdz

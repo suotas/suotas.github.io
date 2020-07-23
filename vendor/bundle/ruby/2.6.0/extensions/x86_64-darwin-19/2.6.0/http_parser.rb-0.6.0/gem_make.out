@@ -1,0 +1,16 @@
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/s-sato/.rbenv/versions/2.6.0/bin/ruby -I /Users/s-sato/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20200721-38435-18dze6j.rb extconf.rb
+creating Makefile
+
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/s-sato/work/suotas.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20200721-38435-5604h2
